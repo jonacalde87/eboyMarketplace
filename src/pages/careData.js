@@ -1,4 +1,4 @@
-export default [
+const data = [
     {
         "_id":"1",
         "name": "Plants",
@@ -21,3 +21,4 @@ export default [
         "img": "https://i5.walmartimages.com/asr/ce3fa3b2-7d59-4468-9d09-2d857117ccac.2d1cadbb09d832a00f0a6e3b10e04b56.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
     }
 ]
+export default data
